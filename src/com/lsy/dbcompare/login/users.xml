@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "users.dtd">
+<users>
+	<!--
+		note: 
+		if u wanna add a new user, 
+		just repeat the node <user> and give the username and pwd 
+	-->
+	<user>
+		<username>admin</username>
+		<pwd>123456</pwd>		
+	</user>
+	<user>
+		<username>user</username>
+		<pwd>user</pwd>		
+	</user>
+</users>
